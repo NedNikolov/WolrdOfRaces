@@ -8,6 +8,5 @@ namespace WorldOfRaces
 {
     class Human
     {
-        long logn = 4;
     }
 }
