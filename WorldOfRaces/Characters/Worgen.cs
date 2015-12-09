@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WorldOfRaces
+namespace WorldOfRaces.Characters
 {
-    class Troll
+    class Worgen
     {
     }
 }

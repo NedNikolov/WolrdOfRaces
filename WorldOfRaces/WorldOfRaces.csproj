@@ -41,15 +41,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Human.cs" />
+    <Compile Include="Characters\Character.cs" />
+    <Compile Include="Characters\Elf.cs" />
+    <Compile Include="Characters\Goblin.cs" />
+    <Compile Include="Characters\Human.cs" />
+    <Compile Include="Characters\Troll.cs" />
+    <Compile Include="Characters\Undead.cs" />
+    <Compile Include="Characters\Worgen.cs" />
     <Compile Include="Interfaces\IAttack.cs" />
     <Compile Include="Interfaces\IHeal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Troll.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Characters\classType\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
