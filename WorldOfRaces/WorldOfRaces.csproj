@@ -48,6 +48,8 @@
     <Compile Include="Characters\classType\Warrior.cs" />
     <Compile Include="Characters\Elf.cs" />
     <Compile Include="Characters\Goblin.cs" />
+    <Compile Include="Characters\Human.cs" />
+    <Compile Include="Characters\Troll.cs" />
     <Compile Include="Characters\Undead.cs" />
     <Compile Include="Characters\Worgen.cs" />
     <Compile Include="Interfaces\IHeal.cs" />
