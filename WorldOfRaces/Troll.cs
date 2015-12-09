@@ -8,6 +8,5 @@ namespace WorldOfRaces
 {
     class Troll
     {
-        asd
     }
 }
