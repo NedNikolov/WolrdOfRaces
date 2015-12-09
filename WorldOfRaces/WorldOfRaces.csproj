@@ -52,7 +52,6 @@
     <Compile Include="Characters\Troll.cs" />
     <Compile Include="Characters\Undead.cs" />
     <Compile Include="Characters\Worgen.cs" />
-    <Compile Include="Interfaces\IAttack.cs" />
     <Compile Include="Interfaces\IHeal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
