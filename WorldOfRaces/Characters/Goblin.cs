@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WorldOfRaces.Characters
 {
-    class Goblin
+    class Goblin:Character
     {
     }
 }
