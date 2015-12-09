@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Human.cs" />
     <Compile Include="Interfaces\IAttack.cs" />
+    <Compile Include="Interfaces\IHeal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
