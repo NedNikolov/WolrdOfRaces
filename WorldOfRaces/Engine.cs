@@ -8,5 +8,6 @@ namespace WorldOfRaces
 {
     class Engine
     {
+        int a = 6;
     }
 }
