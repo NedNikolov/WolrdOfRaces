@@ -8,5 +8,6 @@ namespace WorldOfRaces.Items.Armor
 {
     class Helm:MainArmor
     {
+        int a = 5;
     }
 }
