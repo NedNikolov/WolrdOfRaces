@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Attributes\EnemyAttribute.cs" />
     <Compile Include="Attributes\ItemAttribute.cs" />
+    <Compile Include="Characters\Character.cs" />
     <Compile Include="Exceptions\NotEnoughElexirsException.cs" />
     <Compile Include="Exceptions\ObjectOutsideOfMapException.cs" />
     <Compile Include="GameObject.cs" />
@@ -83,9 +84,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Characters\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
       <Visible>False</Visible>
