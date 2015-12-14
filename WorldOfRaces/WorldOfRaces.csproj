@@ -59,6 +59,7 @@
     <Compile Include="Attributes\EnemyAttribute.cs" />
     <Compile Include="Attributes\ItemAttribute.cs" />
     <Compile Include="Characters\Character.cs" />
+    <Compile Include="Characters\HeroLand.cs" />
     <Compile Include="Characters\HeroRace.cs" />
     <Compile Include="Exceptions\NotEnoughElexirsException.cs" />
     <Compile Include="Exceptions\ObjectOutsideOfMapException.cs" />
