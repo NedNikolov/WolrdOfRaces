@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Attributes\EnemyAttribute.cs" />
     <Compile Include="Attributes\ItemAttribute.cs" />
+    <Compile Include="Exceptions\NotEnoughElexirsException.cs" />
+    <Compile Include="Exceptions\ObjectOutsideOfMapException.cs" />
     <Compile Include="GameObject.cs" />
     <Compile Include="Interfaces\IAttack.cs" />
     <Compile Include="Interfaces\ICharacter.cs" />
