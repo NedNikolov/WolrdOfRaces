@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace WorldOfRaces.Characters.classType
 {
-    class Priest
+    using Interfaces;
+    public class Priest:Character,IHeal
     {
+        protected Priest() : base(125, 200, 100)
+        {
+
+        }
+        public override void Attack(Character target)
+        {
+            this.Mana -= 50;
+            target.Health -= this.Damage;
+            this.Health = this.Damage / 10;
+        }
+        public void Heal(Character target)
+        {
+            this.Mana -= 100;
+            this.Health += 70; 
+        }
     }
 }

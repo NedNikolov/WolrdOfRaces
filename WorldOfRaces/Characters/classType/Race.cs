@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WorldOfRaces.Characters
+namespace WorldOfRaces.Characters.classType
 {
-    class Goblin:Character
+    class Race
     {
     }
 }

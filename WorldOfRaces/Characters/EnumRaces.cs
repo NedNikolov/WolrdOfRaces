@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace WorldOfRaces.Characters
 {
-    class Human
+    public enum EnumRaces
     {
+        Troll,
+        Undead,
+        Goblin,
+        Human,
+        Elf,
+        Dwarf
     }
 }
