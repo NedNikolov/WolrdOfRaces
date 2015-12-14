@@ -1,4 +1,6 @@
-﻿namespace RPG_Ned.Items
+﻿using WorldOfRaces;
+
+namespace WorldOfRaces.Items
 {
     using Attributes;
 

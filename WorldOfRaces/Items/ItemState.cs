@@ -1,4 +1,4 @@
-﻿namespace RPG_Ned.Items
+﻿namespace WorldOfRaces.Items
 {
     public enum ItemState
     {

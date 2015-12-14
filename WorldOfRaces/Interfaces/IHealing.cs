@@ -1,6 +1,6 @@
 ﻿namespace WorldOfRaces.Interfaces
 {
-    interface IHealing
+    public interface IHealing
     {
         void Heal();
     }

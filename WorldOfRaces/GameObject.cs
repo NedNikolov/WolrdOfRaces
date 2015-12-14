@@ -1,8 +1,9 @@
 ﻿using System;
 using RPG_Ned.Engine;
 using RPG_Ned.Exceptions;
+using WorldOfRaces;
 
-namespace RPG_Ned
+namespace WorldOfRaces
 {
     public abstract class GameObject
     {

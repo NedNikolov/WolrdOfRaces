@@ -1,4 +1,6 @@
-﻿namespace RPG_Ned.Items
+﻿using WorldOfRaces;
+
+namespace WorldOfRaces.Items
 {
     public abstract class Item : GameObject
     {
