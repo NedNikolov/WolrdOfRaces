@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameObject.cs" />
     <Compile Include="Interfaces\IAttack.cs" />
     <Compile Include="Interfaces\ICharacter.cs" />
     <Compile Include="Interfaces\IDestroyable.cs" />
@@ -63,6 +64,10 @@
     <Compile Include="Interfaces\IInputReader.cs" />
     <Compile Include="Interfaces\IMoving.cs" />
     <Compile Include="Interfaces\IRenderer.cs" />
+    <Compile Include="Items\Elexir\LifeElexir.cs" />
+    <Compile Include="Items\Elexir\LifeElexirSize.cs" />
+    <Compile Include="Items\Item.cs" />
+    <Compile Include="Items\ItemState.cs" />
     <Compile Include="Position.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
