@@ -59,6 +59,7 @@
     <Compile Include="Interfaces\IAttack.cs" />
     <Compile Include="Interfaces\ICharacter.cs" />
     <Compile Include="Interfaces\IDestroyable.cs" />
+    <Compile Include="Interfaces\IHealing.cs" />
     <Compile Include="Interfaces\IInputReader.cs" />
     <Compile Include="Interfaces\IMoving.cs" />
     <Compile Include="Interfaces\IRenderer.cs" />
