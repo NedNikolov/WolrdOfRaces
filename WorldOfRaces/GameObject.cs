@@ -1,6 +1,6 @@
 ﻿using System;
-using RPG_Ned.Engine;
-using RPG_Ned.Exceptions;
+using WorldOfRaces.Engine;
+using WorldOfRaces.Exceptions;
 using WorldOfRaces;
 
 namespace WorldOfRaces

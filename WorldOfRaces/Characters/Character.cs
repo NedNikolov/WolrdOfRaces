@@ -1,6 +1,6 @@
 ﻿using System;
 using WorldOfRaces.Interfaces;
-using RPG_Ned;
+using WorldOfRaces;
 
 
 namespace WorldOfRaces.Characters
