@@ -1,5 +1,7 @@
 ﻿using System;
 using WorldOfRaces.Interfaces;
+using RPG_Ned;
+
 
 namespace WorldOfRaces.Characters
 {
