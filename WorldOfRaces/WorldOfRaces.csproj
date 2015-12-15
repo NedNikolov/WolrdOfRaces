@@ -65,6 +65,7 @@
     <Compile Include="Characters\Hero.cs" />
     <Compile Include="Characters\HeroLand.cs" />
     <Compile Include="Characters\HeroRace.cs" />
+    <Compile Include="Characters\NightElf.cs" />
     <Compile Include="Exceptions\NotEnoughElexirsException.cs" />
     <Compile Include="Exceptions\ObjectOutsideOfMapException.cs" />
     <Compile Include="GameObject.cs" />
