@@ -60,6 +60,7 @@
     <Compile Include="Attributes\ItemAttribute.cs" />
     <Compile Include="Characters\Character.cs" />
     <Compile Include="Characters\Dwarf.cs" />
+    <Compile Include="Characters\Gnome.cs" />
     <Compile Include="Characters\Hero.cs" />
     <Compile Include="Characters\HeroLand.cs" />
     <Compile Include="Characters\HeroRace.cs" />
