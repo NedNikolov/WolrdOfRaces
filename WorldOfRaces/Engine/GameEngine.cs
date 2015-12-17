@@ -61,6 +61,7 @@ namespace WorldOfRaces.Engine
             var heroLand = GetHeroLand();
             var heroName = this.GetHeroName();
             HeroRace race = this.GetHeroRace();
+            this.ExecuteHelpCommand();
 
             this.hero = new Hero(new Position(0, 0), 'H', heroName, race);
 

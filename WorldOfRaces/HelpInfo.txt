@@ -1,0 +1,14 @@
+﻿Game objective: Kill everyone!!!
+-help - Displays commands.
+-map - Displays the map and the nemies and the LifeElexirs on it.
+-left - Move left.
+-right - Move right.
+-up - Move up.
+-down - Move down.
+-status - Display Hero current health, attack and elexir inventory.
+-enemies - Display enemies left.
+-enemiesInfo - Displays all info about enemies - Race, health and damage.
+-ElexirInfo - Display all LifeElexirs values.
+-heal - Heal yourself if you have an elexir.
+-clear - Clears the screen.
+-retreat - You has been slain by the evil enemies and you will never see the sun light again!
