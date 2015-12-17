@@ -11,7 +11,7 @@ using WorldOfRaces.Exceptions;
 using WorldOfRaces.Interfaces;
 using WorldOfRaces.Items;
 
-namespace RPG_Ned.Engine
+namespace WorldOfRaces.Engine
 {
     public class GameEngine
     {

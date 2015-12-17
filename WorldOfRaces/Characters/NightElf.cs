@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using WorldOfRaces;
+﻿using WorldOfRaces;
 using WorldOfRaces.Attributes;
 using WorldOfRaces.Characters;
 
-[Enemy]
+
+    [Enemy]
     public class NightElf : Character
     {
         private const int NightElfDamage = 90;
@@ -19,4 +15,3 @@ using WorldOfRaces.Characters;
         {
         }          
     }
-}

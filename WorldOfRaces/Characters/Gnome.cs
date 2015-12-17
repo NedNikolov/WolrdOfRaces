@@ -19,4 +19,3 @@ using WorldOfRaces.Characters;
         {
         }
     }
-}
