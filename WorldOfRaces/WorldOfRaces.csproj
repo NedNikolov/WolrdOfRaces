@@ -68,6 +68,9 @@
     <Compile Include="Characters\NightElf.cs" />
     <Compile Include="Characters\Orc.cs" />
     <Compile Include="Characters\Tauren.cs" />
+    <Compile Include="Characters\Troll.cs" />
+    <Compile Include="Characters\Undeal.cs" />
+    <Compile Include="Characters\Worden.cs" />
     <Compile Include="Engine\GameEngine.cs" />
     <Compile Include="Exceptions\NotEnoughElexirsException.cs" />
     <Compile Include="Exceptions\ObjectOutsideOfMapException.cs" />
